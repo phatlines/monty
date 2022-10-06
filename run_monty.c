@@ -1,10 +1,12 @@
 /*
  * File: run_monty.c
- * Auth: Donna Govender
+ * Auth: Donna Govender & 
+ * Muyiwa Fatunsin
  */
 
 #include "monty.h"
 #include <string.h>
+#include <stdio.h>
 
 void free_tokens(void);
 unsigned int token_arr_len(void);
